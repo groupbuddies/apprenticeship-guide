@@ -1,16 +1,16 @@
 Mentors
 =======
 
-Mentors change every two weeks. During this period a mentor is fully responsible for the apprentice. This means during the day and homework.
+Mentors are replaced every two weeks. During this time he is fully responsible for the apprentice. This includes the work day as well as preparing homework.
 
 Mentors are able to choose what they're going to teach and how, as long as it is in the scope of the goals.
 
 ## Planning
 
-The planning for each week must be done on the week before. This doesn't mean a mentor has to strictly follow the plan, it can be changed it at any time. The point of having a plan is to make sure mentors are not going to do what looks easier in the moment and they are going to think things through. Not only that, but the planning will help the next mentor to prepare his work.
+Each week must be planned the week before. But it doesn't mean that he can't change the planning at any time. The point of having a plan is to make sure mentors are not going to do whatever they feel like on the moment and they are going to think things through. Moreover the planning will help for the next mentor to prepare his work.
 
 Planning each week isn't only the responsibility of the current mentor, the other mentors and the coordinator should be available to help. The week doesn't need to be planned in detail, but there should be an idea of what's going to happen. It's important to have feedback from more people, especially on each mentor's first week with the apprentice. Even for pair programming a mentor should know what he is going to work during those days.
-During the day, each mentor can assign the following type of tasks:
+During the day, each mentor can perform the following type of tasks:
 
 * Pair programming;
 * Individual tasks;
