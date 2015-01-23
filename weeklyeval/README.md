@@ -1,4 +1,4 @@
-Wenkly Evaluation
+Weekly Evaluation
 =================
 
 By the end of each week we need to get feedback from the apprentice and make an evaluation.
