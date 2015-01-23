@@ -5,9 +5,9 @@ There are three types of responsibilities involved in an apprenticeship: coordin
 
 **Coordinator**.
 
-The coordinator is the person responsible for everything on apprenticeship that’s not related to teaching.
+The coordinator is the person responsible for everything on the apprenticeship that’s not related to teaching.
 
-He is responsible for keep the mentors on track and assure the objectives are fulfilled.
+He is responsible for keeping the mentors on track and assure the objectives are fulfilled.
 
 **Mentors**
 
