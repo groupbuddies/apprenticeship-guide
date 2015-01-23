@@ -1,15 +1,26 @@
 Weekly Evaluation
 =================
 
-By the end of each week we need to get feedback from the apprentice and make an evaluation.
+In the end of each week, both the mentor and the apprentice need to fill in a small report. The purpose of the report is to gather information to improve both the ongoing apprenticeship and the following ones.
 
-- [ ] Review the topics approached during the week.
-- [ ] Give instructions for the following week.
-- [ ] Assign work for weekend
-- [ ] Register feedback from the mentor.
-- [ ] Register feedback from the apprentice.
-- [ ] Review behavior from both the mentor and the apprentice.
+The main goals of the weekly report is to gather the following information.
 
-The idea of this items is for us to register information for the following apprenticeships.
+- [ ] Topics approached during the week.
+- [ ] Feedback from the mentor.
+- [ ] Feedback from the apprentice.
 
-With this we will be able to keep making adjustments.
+An online form is enough for the weekly report. The tool is optional, as long as it contains the necessary questions
+
+** For the Mentor **
+
+1. Did you feel overwhelm with the amount of work?
+2. How would rate your performance (qualitatively)?
+3. Are you satisfied with your week? If not, please write why.
+4. Can you write some lines about what you did during the week and how the apprentice reacted to it?
+
+** For the Apprentice **
+
+1. Did you feel overwhelm with the amount of work?
+2. How would rate your performance (qualitatively)?
+3. Are you satisfied with your week? If not, please write why.
+4. Can you write some lines about what you learned? 
