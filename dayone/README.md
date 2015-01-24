@@ -1,22 +1,31 @@
 Day One Checklist
 =================
 
-This chapter contains a checklist to be done on the first day. The apprentice must learn the rules of apprenticeship and setup is work environment. If there is time left the first mentor will pick up.
+This document contains a checklist of things to be completed on the first day, and some ground rules for the apprenticeship. The apprentice must learn this rules. If there is time left the first mentor will pick up.
 
-## Environment
+## Environment Setup
 
-- [ ] Google Apps Account
-- [ ] Github.
-- [ ] Slack.
-- [ ] Semaphore.
-- [ ] GB dotfiles.
-- [ ] RVM.
+### To be done by us
+
+- [ ] Group Buddies email account
+- [ ] Add to apprentices team on Github.
+- [ ] Add to Slack.
+- [ ] Add to Semaphore.
+
+### To be done by the apprentice
+
+- [ ] Create Github account with a decent name.
+- [ ] Install Group Buddies [dotfiles](https://github.com/groupbuddies/dotfiles).
+- [ ] Setup his working environment for Rails development, following this [tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html).
+- [ ] Read the Group Buddies [guides](https://github.com/groupbuddies/guides).
+
+
+## Rules
 
 ### Slack
 
-The apprentice joins the same org as the rest of the team. But he should only be access channels related to the projects he is working on, plus the #blog-posts, #community, #design #development, #fridaytalks, #general and #random.
+The apprentice joins the same org as the rest of the team. But he should only join channels related to the project(s) he is working on, and optionally the #blog-posts, #community, #design, #development, #fridaytalks, #general and/or #random.
 
+### Schedule
 
-### Github
-
-The apprentice must create a Github account, if he doesn't have one (please have him choose a acceptable name). There is a Github group in the org for apprentices.
+The apprentice should diccuss the time to get to the office, time to leave and any other scheduling issue with the mentor. 
