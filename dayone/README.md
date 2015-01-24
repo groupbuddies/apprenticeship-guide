@@ -28,4 +28,13 @@ The apprentice joins the same org as the rest of the team. But he should only jo
 
 ### Schedule
 
-The apprentice should diccuss the time to get to the office, time to leave and any other scheduling issue with the mentor. 
+The apprentice should diccuss the time to get to the office, time to leave and any other scheduling issue with the mentor.
+
+### Editor
+
+There is no mandatory editor, but it must be one of these:
+
+* Vim
+* Sublime
+* Atom
+* Emacs
