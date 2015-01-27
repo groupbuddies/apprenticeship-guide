@@ -1,5 +1,7 @@
-Day One Checklist
-=================
+Apprentices
+===========
+
+## Day One Checklist
 
 This document contains a checklist of things to be completed on the first day, and some ground rules for the apprenticeship. The apprentice must learn this rules. If there is time left the first mentor will pick up.
 
@@ -19,7 +21,6 @@ This document contains a checklist of things to be completed on the first day, a
 - [ ] Setup his working environment for Rails development, following this [tutorial](http://tutorials.jumpstartlab.com/topics/environment/environment.html).
 - [ ] Read the Group Buddies [guides](https://github.com/groupbuddies/guides).
 
-
 ## Rules
 
 ### Slack
@@ -32,7 +33,7 @@ The apprentice should diccuss the time to get to the office, time to leave and a
 
 ### Editor
 
-There is no mandatory editor, but it must be one of these:
+There is no mandatory editor, but we strongly encourage these:
 
 * Vim
 * Sublime

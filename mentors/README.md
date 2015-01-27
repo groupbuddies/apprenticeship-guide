@@ -24,3 +24,20 @@ Homework also needs to be planned. Again, it doesn't mean it can’t change at a
 * Research;
 * Open Pull Requests for unfinished tasks or tasks assigned by the mentor;
 * Do exercises.
+
+### Planning Report
+
+The planning report must contain a general description of what's going to happen during the week, and links to resources to be used. Take the following as an example.
+
+```
+This week is going to cover two main topics, git and tests.
+
+The apprentice will learn how to create feature branches, open acceptable pull requests and write a script to automate the process.
+
+We are also going to cover basic theory on tests. What can/should we test, how are tests usefull, and apply the knowledge in pull requests to TheCouncil.
+
+Resources:
+http://guides.rubyonrails.org/testing.html
+```
+
+The tool for this report is optional, as long as it's consistent.
