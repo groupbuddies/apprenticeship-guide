@@ -13,7 +13,7 @@ He is responsible for keep the mentors on track and assure the objectives are fu
 
 People responsible for the apprentice’s work.
 
-## After the Apprentice
+## After the Apprenticeship
 
 ### Checklist
 
