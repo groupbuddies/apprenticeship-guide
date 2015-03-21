@@ -12,3 +12,9 @@ He is responsible for keep the mentors on track and assure the objectives are fu
 **Mentors**
 
 People responsible for the apprentice’s work.
+
+## After the Apprentice
+
+### Checklist
+
+- [ ] Remove the apprentice from the private work tools (slack, semaphore, etc).
