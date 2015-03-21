@@ -1,11 +1,11 @@
 Apprentices
 ===========
 
-## Day One Checklist
+## Onboarding
 
 This document contains a checklist of things to be completed on the first day, and some ground rules for the apprenticeship. The apprentice must learn this rules. If there is time left the first mentor will pick up.
 
-## Environment Setup
+## Environment
 
 ### To be done by us
 
@@ -13,6 +13,7 @@ This document contains a checklist of things to be completed on the first day, a
 - [ ] Add to apprentices team on Github.
 - [ ] Add to Slack.
 - [ ] Add to Semaphore.
+- [ ] Add to The Shelf.
 
 ### To be done by the apprentice
 
