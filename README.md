@@ -7,3 +7,4 @@ This document is a draft for a future guide on how to organize an apprenticeship
 * [Mentors](mentors)
 * [Apprentices](apprentices)
 * [Weekly Report](weeklyreport)
+* [Submissions](submissions)
