@@ -5,7 +5,7 @@ One of two things can happen after an apprenticeship. The apprentice stays, and 
 
 
 Staying
-_______
+-------
 
 - [ ] Grant access to all channels and groups on Slack.
 - [ ] Add the the developers team on Github.
@@ -14,7 +14,7 @@ _______
 
 
 Leaving
-_______
+-------
 
 Remove from all of the following services.
 

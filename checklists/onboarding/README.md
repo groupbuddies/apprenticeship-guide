@@ -5,7 +5,7 @@ This document contains a list of tasks to be done on the apprentice's first day.
 
 
 To be done by us
-________________
+----------------
 
 - [ ] Group Buddies email account.
 - [ ] Add to apprentices team on Github.
@@ -15,7 +15,7 @@ ________________
 
 
 To be done by the apprentice
-____________________________
+----------------------------
 
 - [ ] Create Github account with a decent name.
 - [ ] Install Group Buddies [dotfiles](https://github.com/groupbuddies/dotfiles).
