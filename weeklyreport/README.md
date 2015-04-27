@@ -1,9 +1,9 @@
 Weekly Report
 =================
 
-In the end of each week, both the mentor and the apprentice need to fill in a small report. The purpose of the report is to gather information to improve both the ongoing apprenticeship and the following ones.
+At the end of each week, both the mentor and the apprentice need to fill in a small report. The purpose of the report is to gather information to improve both the ongoing apprenticeship and the following ones.
 
-The main goal of the weekly report is to gather the following information.
+The main goal of the weekly report is to gather the following information:
 
 - [ ] Topics approached during the week.
 - [ ] Feedback from the mentor.

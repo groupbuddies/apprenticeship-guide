@@ -13,7 +13,11 @@ The apprentice joins the same org as the rest of the team. But he should only jo
 
 The apprentice should discuss the time to get to the office, time to leave and any other scheduling issue with the mentor.
 
-### Editor
+### Computer
+
+A computer with either Linux or OSX is required. There are no other strong requirements, as long as the apprentice is comfortable and productive with whatever he's using.
+
+### Text Editor
 
 There is no mandatory editor, but we strongly encourage these:
 

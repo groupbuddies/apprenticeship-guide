@@ -9,7 +9,7 @@ To be done by us
 
 - [ ] Group Buddies email account.
 - [ ] Add to apprentices team on Github.
-- [ ] Add to Slack.
+- [ ] Add to Groupbuddies org on Slack.
 - [ ] Add to Semaphore.
 - [ ] Add to The Shelf.
 
