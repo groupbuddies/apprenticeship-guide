@@ -1,7 +1,7 @@
 Apprenticeship Guide
 ====================
 
-This document is a draft of a guide to help organizing an apprenticeship at Group Buddies.
+This document is a draft of a guide to help organizing an apprenticeship at Subvisual.
 
 * [Faculty](faculty)
 * [Mentors](mentors)

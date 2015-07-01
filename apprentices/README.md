@@ -1,7 +1,7 @@
 Apprentices
 ===========
 
-This document contains  some ground rules for the apprenticeship. The apprentice must learn this rules. If there is time left the first mentor will pick up.
+This document contains some ground rules for the apprenticeship. The apprentice must learn this rules. If there is time left the first mentor will pick up.
 
 ## Rules
 
